@@ -52,9 +52,6 @@ As can be seen in the breakdown provided above, Diana Degette received the 73.8%
 
 
 ## Challenge Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-
 I propose that the Colorado election commission use this code, with some modifications, for all future elections. I have two suggestions for modifications that will enable it to function in other elections. First, instead of tracking votes by county, we can track votes by precint. As precint-level data is more granular, this feature will be useful for local elections where all the votes come from a single county. This change will require that the information provided indicates the precint the data comes from. Alternatively, when a election is at the county-level we can simply remove the data on which county each vote came from as all votes will be from one county. 
 
-A second useful modification to the code would be to annouce that there is a tie in the case that two or more candidates receive the same number of votes. While such a result should rarely happen, it is important to not announce that one candidate won if the initial vote count indicates a tie. 
+A second useful modification to the code would be to annouce that there is a tie in the case that two or more candidates receive the same number of votes. While such a result should rarely happen, it is important to not announce that one candidate won if the initial vote count indicates a tie. The Committee should commission these modifications and use this code for all future elections.
